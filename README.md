@@ -1,2 +1,2 @@
 # wisdom-parent
-父类
+MAVEN父模块
