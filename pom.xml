@@ -42,7 +42,7 @@
         <fastjson.version>1.2.62</fastjson.version>
         <vavr.version>1.0.0-alpha-3</vavr.version>
         <wisdom.mybatisplus.version>1.0.0-RELEASE</wisdom.mybatisplus.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <jedis.version>2.9.0</jedis.version>
         <druid.version>1.1.21</druid.version>
         <mybatis.plus.starter.plus.version>1.0.0-RELEASE</mybatis.plus.starter.plus.version>
